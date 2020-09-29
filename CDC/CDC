@@ -1,0 +1,103 @@
+Pages 
+	Page d'acceuil
+		Affichage depends de l'utilisateur
+		Recommended
+			Des cours d'aprés ce qu'il ont vu dans le passé
+		Des cours selon ce qu'ils suivent
+	Page d'administration
+		Activer, desactiver un compte
+		CRUD cours 
+		CRUD compte 
+		CRUD camera 
+		Activer, desactiver camera
+		CRUD category
+		CRUD Classe
+	Page de compte 
+	Page de visionnage en direct
+	Page d'authentification
+		Design - OK 
+		Code - 
+		Responsive - 
+	Page de creation de compte 
+		Design - OK 
+		Code - 
+		Responsive -
+
+Fonctionnalités
+	Videos 
+		en direct 
+		non direct 
+		Categories
+			Cours 
+			Reunion
+		Meme video peut appartenir à plusieurs classe, categories
+	Filtre
+		Choisir les cours par classe
+	Types d'utilisateurs
+		Administrateur
+			Activer, desactiver les cameras
+			Expulser un eleve d'une session(empecher de visionner la camera)
+		Eleves
+			Voir les cours(visionner une camera)
+			Ne peuvent voir que les cours sur lesquels ils sont inscrit(Dates)
+			Voir les cours du meme categories diffusés dans le passé
+			Suivre des cours
+		Professeurs
+			Activer et desactiver une camera.
+	Commentaires ecrit sur les videos en direct 
+	Audio en direct pour poser des questions au professeurs 
+	Quelques choses que les etudiants pourait cliquer(ou inserer leur questions) pour indiquer qu'ils ont des questions(Pour faire comme une fil d'attente des questions pour le professeurs)
+	Systemes pour aider les etudiants à trouver des reponses au questions poser dans les cours 
+		Lister les questions 
+		Pour chaque questions poser dans un cours, correspond un moment dans ce cours(pour aider les etudiants à retrouver la reponse dans ce cours)
+	Questions / reponses 
+		Comment simplifier la recherche de solutions
+			recherche dans l'audio, video 
+		Comment lie les questions aux cours, videos 
+		Comment poser des questions aux professeurs?
+		Comment realiser des rediffusions?
+		Envoi des TD/exams/cours/TP sos differents formats 
+		Planifier une durée->notif->compte à rebours d'exam pour toutes une classe, ou un rattrapage pour certains etudiants.
+		Envois des notes, revendications.
+	Options dans la video 
+		Choisir parmi plusieurs camera pour avoir un autres angles 
+		Choisir l'ecran du pc ou une camera dans la salle ou webcam
+		Systemes par defaut pour les rediffusion et option pour changer les angles en utilisant d'autres cameras dans la salle 
+		S'il n'ya qu'une seule camera, pas d'options.
+		Enregistrer la video pour voir hors connexion(Progressive web app)
+		Systemes pour envoyer de messages à toutes une classe
+	Partage d'ecran pour des reunions
+
+	Discussions entre etudiants
+	Poser des questions 
+		Suggerer des reponses 
+		Peut etre comme une barre de recherche
+		Apres l'etudiant pourrait confirmer que c'est la reponse à sa questions pour les etudiants futures
+	Camera 
+		Controller 
+			Ouvrir
+			Fermer 
+			Pauser
+			Play 
+			Enregistrer de video 
+		Selectionner parmi plusieurs camera pour enregistrer de video 
+		Selectionner parmi plusieurs micro pour enregistrer de l'audio
+		Avoir plusieurs camera pour plusieurs cours?
+		Plusieurs micro pours un cours?
+
+	Enregistrer son ecran 
+	Enregistrer son micro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
